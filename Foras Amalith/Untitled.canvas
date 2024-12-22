@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"6ed1019d47f5aef1","type":"file","file":"A photo of Foras.png","x":-182,"y":-170,"width":400,"height":400},
+		{"id":"7a1bcf414a07839d","x":-182,"y":-220,"width":250,"height":50,"color":"5","type":"text","text":"Foras"}
+	],
+	"edges":[]
+}
